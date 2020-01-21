@@ -1,0 +1,1 @@
+This program was created to be compiled with Cygwin and used within the Cygwin terminal
